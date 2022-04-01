@@ -1,0 +1,28 @@
+﻿  json_reader.cpp
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\json_reader.cpp(11,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  json_value.cpp
+  json_writer.cpp
+  Time.cpp
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1742,141): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1744,133): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1758,137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1760,129): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1776,145): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1778,137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1779,151): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1781,152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1827,101): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1829,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1851,100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1853,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1873,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1875,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1879,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1881,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  timecalc.cpp
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\timecalc.cpp(8,13): warning C4244: “=”: 从“double”转换到“time_t”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Time.vcxproj -> C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\x64\Release\Time.exe

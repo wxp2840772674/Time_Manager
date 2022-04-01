@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Time", "Time\Time.vcxproj", "{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Time_Manager", "Setup_Time_Manager\Setup_Time_Manager.vdproj", "{ED5E416F-F2C4-4113-8F89-E3EE1EEBC11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Debug|x64.ActiveCfg = Debug|x64
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Debug|x64.Build.0 = Debug|x64
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Debug|x86.Build.0 = Debug|Win32
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Release|x64.ActiveCfg = Release|x64
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Release|x64.Build.0 = Release|x64
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Release|x86.ActiveCfg = Release|Win32
+		{D4C22AE6-2A0C-46A4-8FA3-70E6CDC5503B}.Release|x86.Build.0 = Release|Win32
+		{ED5E416F-F2C4-4113-8F89-E3EE1EEBC11E}.Debug|x64.ActiveCfg = Debug
+		{ED5E416F-F2C4-4113-8F89-E3EE1EEBC11E}.Debug|x86.ActiveCfg = Debug
+		{ED5E416F-F2C4-4113-8F89-E3EE1EEBC11E}.Release|x64.ActiveCfg = Release
+		{ED5E416F-F2C4-4113-8F89-E3EE1EEBC11E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F67B75A-E875-41C3-A1E1-FA14259B2281}
+	EndGlobalSection
+EndGlobal

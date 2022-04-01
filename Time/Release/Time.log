@@ -1,0 +1,11 @@
+﻿  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Time.cpp
+  timecalc.cpp
+C:\Users\28407\source\Time\Time\timecalc.cpp(8,13): warning C4244: “=”: 从“double”转换到“time_t”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1133 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Time.vcxproj -> C:\Users\28407\source\Time\Release\Time.exe

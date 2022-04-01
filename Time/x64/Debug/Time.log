@@ -1,0 +1,18 @@
+﻿  Time.cpp
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1739,141): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1741,133): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1755,137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1757,129): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1773,145): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1775,137): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1776,151): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1778,152): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1824,101): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1826,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1848,100): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1850,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1870,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1872,92): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1876,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\Time\Time.cpp(1878,97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Time.vcxproj -> C:\Users\28407\OneDrive\文档\Visual Studio 2022\Projects\Time\x64\Debug\Time.exe
